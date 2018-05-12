@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Código teste do git
+
 int main ()
 {
 	char nome[50];
